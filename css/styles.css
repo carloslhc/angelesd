@@ -1,0 +1,21 @@
+#estilosLogo{
+    box-shadow: 0px 4px 4px #888888;
+    background-color: #53B292; 
+    color:white;
+    z-index: 10;
+}
+#catalogo{
+    z-index: -1;
+    background-color: #A35Fb2;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.footer{
+    width: 100vw;
+    background-color: #53B292;
+    padding: 15px;
+    color: white;
+    text-align: center;
+
+}
